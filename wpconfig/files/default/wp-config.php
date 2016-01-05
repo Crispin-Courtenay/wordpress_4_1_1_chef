@@ -14,6 +14,9 @@
  * @package WordPress
  */
 
+/* Multisite */
+define( 'WP_ALLOW_MULTISITE', true );
+
 define('WP_REDIS_HOST', 'fermented.uvfquf.0001.usw1.cache.amazonaws.com');
  
 define('WP_HOME','http://d2y045azwrlnsr.cloudfront.net');
